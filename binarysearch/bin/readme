@@ -1,0 +1,3 @@
+Problems:
+Compatibility of generic types with specific types. Sometimes method binary search
+wouldn't accept specific type arguments(int, double).
